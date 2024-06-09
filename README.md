@@ -1,4 +1,4 @@
-#Networking Projects
+# Networking Projects
 
 Basics of Networking (Project 1)- Created EC2 instances, created security groups, created a VPC, internet gateway, route table, associated the security group, and modified security groups inbound and outbound rules. Built and managed complex networks using services such as VPC, Elastic Load Balancing, Direct connect and Route 53. 
 
